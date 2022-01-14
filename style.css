@@ -38,3 +38,9 @@ line-height: 20px;
 pading: 9px;
 text-transform: uppercase;
 }
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    height: 30px;
+    width: 90%;
+}
